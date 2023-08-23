@@ -2,9 +2,9 @@
 title: &title Using pr.new
 description: &description This page covers using pr.new to open, view, and contribute to any project through our Codeflow IDE or Web Publisher.
 head:
-  - ['meta', {property: 'og:title', content: *title}] 
+  - ['meta', {property: 'og:title🉑', content: *title}] 
   - ['meta', {property: 'og:image', content: 'https://developer.stackblitz.com/img/og/using-pr_new.png'}]
-  - ['meta', {name: 'twitter:title', content: *title}]
+  - ['meta', {name: 'twitter:Stackblitz's codecov PR', content: *title}]
   - ['meta', {name: 'twitter:description', content: *description}]
 ---
 
@@ -87,3 +87,4 @@ To edit a single file with pr.new, visit it in the GitHub repository and click t
 > <a href="https://pr.new/github.com/stackblitz/docs/edit/main/docs/guides/user-guide/what-is-stackblitz.md" target="_blank" rel="noopener noreferrer"><b>pr.new/</b>github.com/stackblitz/docs/edit/main/docs/guides/user-guide/what-is-stackblitz.md</a>
 
 You will be redirected to [Web Publisher](./content-updates-with-web-publisher) for a more pleasant editing experience. If you prefer to work in a full environment, click on the "Open in IDE" button and you will be redirected to [Codeflow IDE](./working-in-codeflow-ide).
+contact us : <buildchromium@hotmail.com>
