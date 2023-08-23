@@ -25,6 +25,7 @@ const groupLinks: Record<LinkGroup, LinkItem[]> = {
     { text: 'IDE: what’s on your screen', link: '/guides/user-guide/ide-whats-on-your-screen' },
     { text: 'Collections', link: '/guides/user-guide/collections' },
     { text: 'Keyboard shortcuts', link: '/guides/user-guide/keyboard-shortcuts' },
+    { text: 'General FAQs', link: '/guides/user-guide/general-faqs' },
   ],
   integrationGuide: [
     { text: 'Embedding projects', link: '/guides/integration/embedding' },
@@ -86,7 +87,7 @@ const groupLinks: Record<LinkGroup, LinkItem[]> = {
     { text: 'Setting up SSO', link: '/enterprise/sso' },
     { text: 'Setting up SSO with Okta', link: '/enterprise/okta-sso' },
     { text: 'Setting up SSO with ADFS', link: '/enterprise/adfs-sso' },
-    { text: 'Connect NPM registry', link: '/enterprise/npm' },
+    { text: 'Connect npm Registry', link: '/enterprise/npm' },
     { text: 'Starter Projects', link: '/enterprise/starter-projects' },
     { text: 'User Management', link: '/enterprise/user-management' },
     { text: 'Aggregating Logs', link: '/enterprise/log-aggregation' },
